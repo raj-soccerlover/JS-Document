@@ -1,4 +1,5 @@
-# [JS Documentation]##### A website comprising of javascript documentation.    
+# JS Documentation
+### A website comprising of javascript documentation.    
 
  ### Languages Used:
 >>  **HTML**    
